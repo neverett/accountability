@@ -26,6 +26,7 @@ In creating a guide for a broad audience, we may have missed topics or questions
 | What do you currently work on, and in what capacity? List your position/title, projects, and/or areas of responsibility.| |
 | What kinds of decisions are you responsible for or do you have influence over? (Example: Architectural decisions, decisions about tools and workflow, policy, personnel (hiring, firing, and performance review), financial decisions)| |
 | What motivations and incentives influence your work and may factor into (or limit) the actions you decide to take? (Example: Interesting problems or projects, opportunity to work with particular people or technologies, promotions, raises, bonuses, prestige)||
+| Does your profession have an ethical creed, oath, or pledge? | |
 | What practical considerations will you need to take into account when deciding what actions to take? (Example: Financial responsibilities, health insurance coverage, career mobility, ability to relocate)|||
 
 ## Organization assessment
@@ -59,6 +60,7 @@ In creating a guide for a broad audience, we may have missed topics or questions
 |----------|--------|
 | Does your organization have an employee ethics hotline, compliance violation reporting mechanism, or policy on whistleblowing? If so, document it in the Answer column.||
 | Are there "moral canaries" in your organization? These are people whose statements or actions (especially drastic ones, like quitting) you perceive as important indicators of the moral health of your organization.||
+| Have any employees in your organization unionized? | |
 | Who are the key decision makers or influencers in critical departments or areas of your organization and what is the best way to communicate with each of them? (Example: Legal, Security, Engineering, Product/Product Management, Design, Customer Support)|||
 
 ### Leadership assessment
