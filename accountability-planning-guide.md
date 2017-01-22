@@ -67,10 +67,10 @@ In creating a guide for a broad audience, we may have missed topics or questions
 
 | Question | Answer |
 |----------|--------|
-| Has your organization made a public or private statement in response to threats from the incoming US presidential administration? | |
-| Has any member of your organization's leadership met with the incoming US presidential administration?||
-| If your company is investor-funded, who are your investors? Have they made a private or public statement in response to threats from the incoming US presidential administration?||
-| Who is on your organization's board of directors? Have they taken any actions or made any public statements regarding threats incoming US presidential administration's threats? |||
+| Has your organization made a public or private statement in response to threats from the US presidential administration? | |
+| Has any member of your organization's leadership met with the US presidential administration?||
+| If your company is investor-funded, who are your investors? Have they made a private or public statement in response to threats from the US presidential administration?||
+| Who is on your organization's board of directors? Have they taken any actions or made any public statements regarding the US presidential administration's threats? |||
 
 
 # Imagine possible outcomes
